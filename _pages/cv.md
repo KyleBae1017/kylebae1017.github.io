@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can check my detailed CV in my [Github](https://github.com/KyleBae1017/MyCV/blob/main/CV_BaeMinSeong.pdf)!
+
 Education
 ======
 * High School Diploma, Busan Science High School, 2021
