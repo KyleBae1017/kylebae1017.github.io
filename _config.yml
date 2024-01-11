@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Minseong Bae"
-  avatar           : "profile.jpg"
-  bio              : "Undergraduate Student in Korea University"
+  avatar           : "profile.jpeg"
+  bio              : "Undergraduate Student in Korea University."
   location         : "Seoul, Korea"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
