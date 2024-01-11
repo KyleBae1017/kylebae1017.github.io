@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* High School Diploma, Busan Science High School, 2021
+* B.S. in Computer Science & Engineering, Korea University, 2025 (expected)
+  * Double majoring in Mathematics
+  * GPA : 4.48 / 4.50 (for 5 semesters, 91 / 130)
 
-Work experience
+Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Intern @ MLV Lab, Korea University, 2022 - Present
+  * Advisor : Prof. Hyunwoo J. Kim
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Interests
+======
+* Machine Learning on Graphs
+* Generative Models
+  * Diffusion Models
+* Multimodal AI
+
+Awards & Scholarships
+======
+* 1-time Dean's Award, 3-time President's Award from Korea University
+  * award for the academic excellence (4.50 / 4.50 for a semester)
+* National Scholarship for Science & Engineering from Korea Student Aid Foundation (2-year)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages : C, C++, Python, OCaml
+* Frameworks & Tools : Tensorflow, keras, scikit-learn, PyTorch, PyG
+* Languages : Native in Korean, Conversational in English
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Coming Soon!
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
