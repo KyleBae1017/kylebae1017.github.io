@@ -14,7 +14,7 @@ I'm hugely interested in machine learning and deep learning, especially in **mac
 
 Updates
 ------
-**\[2024/01/11\]** I start this blog! I am going to write some blog posts about what I learned from various materials about computer science, machine learning, deep learning and mathematics. 
+**\[2024/01/11\]** I start this blog! I am going to write some posts about what I learned from various materials about computer science, machine learning, deep learning and mathematics. 
 
 For more info & questions
 ------
