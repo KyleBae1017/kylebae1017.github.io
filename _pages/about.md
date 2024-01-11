@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "😊 Hello World! I'm Minseong Bae."
+title: "😊 Hello, I'm Minseong Bae!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
