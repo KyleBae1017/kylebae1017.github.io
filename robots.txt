@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kylebae1017.github.io/
