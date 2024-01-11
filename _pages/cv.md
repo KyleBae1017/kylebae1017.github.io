@@ -30,7 +30,7 @@ Interests
 
 Awards & Scholarships
 ======
-* 1-time Dean's Award, 3-time President's Award from Korea University
+* 1 Dean's Award, 3 President's Award from Korea University
   * award for the academic excellence (4.50 / 4.50 for a semester)
 * National Scholarship for Science & Engineering from Korea Student Aid Foundation (2-year)
   
