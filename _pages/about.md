@@ -2,9 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: |+
-  M.S. Student in KAIST MLV Lab, advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>.<br><br>
-  School of Computing at <a href="https://www.kaist.ac.kr/">KAIST</a>, Daejeon, Republic of Korea.
 
 profile:
   align: right
@@ -21,7 +18,7 @@ announcements:
   
 ---
 
-I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> in School of Computing advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>. Prior to studying at KAIST, I earned my B.E. degree in Computer Science and Engineering / Mathematics at Korea University in 2025.
+I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> in School of Computing advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>. Prior to studying at KAIST, I earned my B.E. degree in Computer Science and Engineering / Mathematics at <a href="https://www.korea.edu/"> Korea University</a> in 2025.
 
 My research interests span machine learning and deep learning, with a focus on **geometric deep learning**, **diffusion/flow-based generative models**, and **multimodal learning**. Nowadays, I’m mainly interested in **RL-based post-training** methods for generative models.
 
