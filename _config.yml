@@ -6,7 +6,6 @@ title: Minseong Bae # the website title (if blank, full name will be used instea
 first_name: Minseong
 middle_name:
 last_name: Bae
-contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   M.S. Student in KAIST. Interested in AI4Science.
 footer_text: >
