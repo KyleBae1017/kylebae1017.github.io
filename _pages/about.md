@@ -18,12 +18,12 @@ announcements:
   
 ---
 
-I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> in School of Computing advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>. Prior to studying at KAIST, I earned my B.E. degree in Computer Science and Engineering / Mathematics at <a href="https://www.korea.edu/"> Korea University</a> in 2025. For more information, please check my <a href="https://kylebae1017.github.io/assets/pdf/CV_MinseongBae.pdf">CV</a>.
+I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> (School of Computing), advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>. Previously, I received my B.E. in Computer Science and Engineering and Mathematics from <a href="https://www.korea.edu/"> Korea University</a> in 2025. For more details, please see my <a href="https://kylebae1017.github.io/assets/pdf/CV_MinseongBae.pdf">CV</a>.
 
-My research interests span machine learning and deep learning, with a focus on **geometric deep learning**, **diffusion/flow-based generative models**, and **multimodal learning**. Nowadays, I’m interested in **RL-based post-training** methods for diffusion models.
+My research interests lie in machine learning, with a particular focus on **geometric deep learning**, **diffusion/flow-based generative models**, and **multimodal learning**. Currently, I am focusing on **RL-based post-training** methods for generative models.
 
-I’m also very interested in applying machine learning to natural sciences and tackling impactful real-world problems (**AI4Science**). So, I have been working on multimodal language models, diffusion-based generative models and agentic systems for **biomolecules** and **weather patterns**.
+I am deeply interested in applying machine learning to natural sciences to tackle impactful real-world problems (**AI4Science**). In this context, I have been working on multimodal language models, diffusion-based generative models and agentic systems for **biomolecules** and **weather patterns**.
 
-My long-term research goal is to develop robust and scalable learning methods that enable a self-evolving human-collaborative agent for scientific discovery.
+My long-term research goal is to develop robust, scalable learning methods that enable self-evolving, human-collaborative agents for scientific discovery.
 
 Feel free to reach out to me via <a href="mailto:bms2002@kaist.ac.kr">contact email</a> if you’d like to discuss anything related to me!
