@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-11-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our 2 papers (<a href="https://arxiv.org/abs/2511.13283">TabFlash</a> and <a href="https://arxiv.org/abs/2601.12256">CoLLaMo</a>) are accepted to AAAI 2026! 🇸🇬
