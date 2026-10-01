@@ -18,7 +18,7 @@ announcements:
   
 ---
 
-I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> (School of Computing), advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>. Previously, I received my B.E. in Computer Science and Engineering and Mathematics from <a href="https://www.korea.edu/"> Korea University</a> in 2025. For more details, please see my <a href="https://kylebae1017.github.io/assets/pdf/CV_MinseongBae.pdf">CV</a>.
+I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> (School of Computing), advised by <a href="https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate">Prof. Hyunwoo J. Kim</a>. Previously, I received my B.E. in Computer Science and Engineering and Mathematics from <a href="https://www.korea.edu/"> Korea University</a> in 2025. For more details, please see my <a href="https://kylebae1017.github.io/assets/pdf/CV_MinseongBae_2610.pdf">CV</a>.
 
 My research interests lie in **generative modeling** across diverse modalities and **geometric deep learning**, particularly in their applications to the natural sciences for tackling impactful real-world problems (**AI4Science**).
 
