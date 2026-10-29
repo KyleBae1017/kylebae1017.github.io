@@ -22,7 +22,7 @@ I am a M.S. student at <a href="https://mlv.kaist.ac.kr/">KAIST MLV Lab</a> (Sch
 
 My research interests lie in **generative modeling** across diverse modalities and **geometric deep learning**, particularly in their applications to the natural sciences for tackling impactful real-world problems (**AI4Science**). My current research focuses on **machine learning for biomolecules** and **atmospheric forecasting**.
 
-I am particularly interested in **generative world modeling, reward-guided generation, and agentic systems** for scientific modeling and discovery, aiming to integrate reasoning, generative modeling, and representation learning to model, simulate, and optimize complex scientific phenomena.
+I am particularly interested in **generative world modeling, reward-guided generation**, and **agentic systems** for scientific modeling and discovery, aiming to integrate reasoning, generative modeling, and representation learning to model, simulate, and optimize complex scientific phenomena.
 
 My long-term research goal is to build robust and scalable learning frameworks that support the scientific research loop and enable self-improving, human-collaborative agents for scientific discovery.
 
